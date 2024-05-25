@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573854048343",
+    "project_id": "nexus-test-a8edc",
+    "storage_bucket": "nexus-test-a8edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573854048343:android:a5cbcba00ec6e39626c312",
+        "android_client_info": {
+          "package_name": "com.involve.nexus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573854048343-45f4tboclessplr1k0072lfti5klrng8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDPJgvEl3HfelESMkn9c0ArlbpsqbTh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573854048343-45f4tboclessplr1k0072lfti5klrng8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
